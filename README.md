@@ -7,9 +7,11 @@ This is a basic Node.js application
 
 ## Features
 
-1.Save books with title, author, isbn and image attributes.
-2.Fetch books.
-3.Delete books.
- 
+1. Save books with title, author, isbn and image attributes.
+
+2. Fetch books.
+
+3. Delete books.
+
 
 Author: Garcia Mauricio
